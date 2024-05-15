@@ -18,3 +18,21 @@
 1. Lighthouse
 1. UX Report
 1. Extensions
+
+## run
+```shell
+npm run docs:dev
+```
+
+## build
+```shell
+npm run docs:build
+```
+
+## preview
+```shell
+npm run docs:preview
+```
+
+## Project Status
+![Alt](https://repobeats.axiom.co/api/embed/7d6b9eebf7860e62b3027dbe9f1dd591f936361b.svg "Repobeats analytics image")
