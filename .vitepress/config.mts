@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'zh',
-  title: 'web-learn',
+  title: 'web-secret',
   description: "学习、记录、总结 `Web` 相关技术",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
