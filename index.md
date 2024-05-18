@@ -18,4 +18,5 @@ const rowWrapVal = ref(true)
   <a-button href="/Docs/Images/图片和效果">图片和效果</a-button>
   <a-button href="/Docs/Images/性能问题">性能问题</a-button>
   <a-button href="/Docs/Images/图片格式和压缩">图片格式和压缩</a-button>
+  <a-button href="/Docs/Images/自适应图片">自适应图片</a-button>
 </a-row>
